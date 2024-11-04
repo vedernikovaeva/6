@@ -15,7 +15,7 @@ namespace ШП_ЛБ6
                 new Product(3, "Спрей-міст для обличчя", "Освіжаючий спрей-міст для обличчя", 880.89, true)
             };
 
-            Customer customer = new Customer(1, "Інна", "+123456789", "anna@gmail.com", "123 Вулиця");
+            Customer customer = new Customer(1, "Інна", "+123456789", "inna@gmail.com", "123 Вулиця");
             ShoppingCart shoppingCart = new ShoppingCart();
             Admin admin = new Admin(1, "admin@gmail.com");
 
